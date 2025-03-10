@@ -32,7 +32,11 @@ export const navLinks = [
   },
   {
     id: "work",
-    title: "Work",
+    title: "Achievements",
+  },
+  {
+    id: "projects",
+    title: "Projects",
   },
   {
     id: "contact",
@@ -338,3 +342,4 @@ export const socialLinks = [
 ];
 
 export { services, technologies, experiences, testimonials, projects };
+navLinks
