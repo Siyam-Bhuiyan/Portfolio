@@ -319,4 +319,22 @@ const projects = [
   },
 ];
 
+export const socialLinks = [
+  {
+    name: "GitHub",
+    url: "https://github.com/Siyam-Bhuiyan",
+    icon: "github",
+  },
+  {
+    name: "LinkedIn",
+    url: "https://www.linkedin.com/in/siyambhuiyan/",
+    icon: "linkedin",
+  },
+  {
+    name: "Facebook",
+    url: "https://www.facebook.com/profile.php?id=100024157003376",
+    icon: "facebook",
+  },
+];
+
 export { services, technologies, experiences, testimonials, projects };
